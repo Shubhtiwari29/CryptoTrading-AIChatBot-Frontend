@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The CryptoTrading-AIChatBot-Frontend is the frontend interface for an AI-powered cryptocurrency chatbot. 
+This application enables users to interact with the chatbot to get real-time cryptocurrency information, 
+including prices, trends, and insights into various digital assets.
 
-## Getting Started
+# Tools and Technologies Used
+1) React: Core framework for building the user interface.
+2) Tailwind CSS: Used for creating a responsive and modern UI.
+3) JavaScript: Primary language for frontend logic and interactions.
 
-First, run the development server:
+# APIs:
+1) Gemini API: Fetches real-time price data.
+2) CoinGecko API: Accesses comprehensive market data on cryptocurrencies.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Key Features
+1) Interactive chatbot interface for querying cryptocurrency prices and market trends.
+2) Responsive design with Tailwind CSS for seamless user experience across devices.
+3) Integration with backend services to ensure secure and efficient data retrieval.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Prerequisites
+Node.js and npm installed on your system.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Repo Link of CryptoTrading-AIChatBot-Backend
+https://github.com/Shubhtiwari29/CryptoTrading-AIChatBot-Backend
